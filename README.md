@@ -1,24 +1,5 @@
-# README
+# About this App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Only for fun and learning purpose. And also as a proof to the people who don't believed me that I can code and think logically. Because, I believed, developed the app is like we build a functional robot. Just put the syntax for command.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Wanna use this projects? Sure things.. Just run the gem bundle and then you are ready to go!
